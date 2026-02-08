@@ -1,8 +1,8 @@
 {
   "skillName": "strapi-documentation",
-  "sourceUrl": "https://docs.strapi.io/llms.txt",
-  "contentHash": "f51f04587463d41c99fa70cf11f5b81094811f4274eec81d09af9d4540624d96",
-  "generatedAt": "2026-02-08T17:00:25.731Z",
-  "updatedAt": "2026-02-08T17:00:25.731Z",
+  "sourceUrl": null,
+  "contentHash": "720fbe97a9f89803d64b11b886980382f8198f3569fcbc55a92910aea91357dc",
+  "generatedAt": "2026-02-08T17:30:54.333Z",
+  "updatedAt": "2026-02-08T17:30:54.333Z",
   "generatorVersion": "1.0.0"
 }
