@@ -1,8 +1,8 @@
 {
   "skillName": "stripe-documentation",
-  "sourceUrl": "https://docs.stripe.com/llms.txt",
-  "contentHash": "4de335c80d3606a2a1c18c8fb768c4c3b51599f48e776387ca316fb5d8db0e66",
-  "generatedAt": "2026-02-08T17:00:08.193Z",
-  "updatedAt": "2026-02-08T17:00:08.193Z",
+  "sourceUrl": null,
+  "contentHash": "8f8210ceca37e30908911a8a435f80a7f909fe2abe414808841f37a011ce4328",
+  "generatedAt": "2026-02-08T17:31:06.875Z",
+  "updatedAt": "2026-02-08T17:31:06.875Z",
   "generatorVersion": "1.0.0"
 }
