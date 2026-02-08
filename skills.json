@@ -34,7 +34,7 @@
     },
     {
       "name": "prisma-documentation",
-      "sourceUrl": "https://www.prisma.io/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "run-ai-with-an-api",
