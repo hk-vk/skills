@@ -18,7 +18,7 @@
     },
     {
       "name": "docker-documentation",
-      "sourceUrl": "https://docs.docker.com/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "last9",
