@@ -1,8 +1,8 @@
 {
   "skillName": "prisma-documentation",
-  "sourceUrl": "https://www.prisma.io/llms.txt",
-  "contentHash": "66b7d38df39b2a739080edaae74e405aa6634289f4c7359da1746e8d3e4f6c6a",
-  "generatedAt": "2026-02-08T16:59:10.548Z",
-  "updatedAt": "2026-02-08T16:59:10.548Z",
+  "sourceUrl": null,
+  "contentHash": "c3fb22262529cb9be5b4457374f4822d934873bea2140ac2a9539167b388b69f",
+  "generatedAt": "2026-02-08T17:30:31.697Z",
+  "updatedAt": "2026-02-08T17:30:31.697Z",
   "generatorVersion": "1.0.0"
 }
