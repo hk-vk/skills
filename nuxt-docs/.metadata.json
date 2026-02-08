@@ -1,8 +1,8 @@
 {
   "skillName": "nuxt-docs",
-  "sourceUrl": "https://nuxt.com/llms.txt",
-  "contentHash": "75bf1292c85e84540cf36fc0c90ce067651529469b92ab15305d73229d4363a0",
-  "generatedAt": "2026-02-08T11:14:24.851Z",
-  "updatedAt": "2026-02-08T11:14:24.851Z",
+  "sourceUrl": null,
+  "contentHash": "a33a816a7c92d1f3da47318782cf9b9bc144cd868441d6191e57590d9d26023c",
+  "generatedAt": "2026-02-08T17:30:07.328Z",
+  "updatedAt": "2026-02-08T17:30:07.328Z",
   "generatorVersion": "1.0.0"
 }
