@@ -30,7 +30,7 @@
     },
     {
       "name": "perplexity",
-      "sourceUrl": "https://docs.perplexity.ai/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "prisma-documentation",
