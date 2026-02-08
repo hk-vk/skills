@@ -3,705 +3,932 @@ name: capawesome
 description: Capawesome offers enterprise-grade solutions and services designed for teams building cross-platform apps with Capacitor.
 metadata:
   source: llms.txt
-  source_url: https://capawesome.io/llms.txt
-  generated: 2026-02-08T17:27:27.066Z
+  source_url: unknown
+  generated: 2026-02-08T17:29:00.139Z
 ---
 
 # Capawesome
 
 > Capawesome offers enterprise-grade solutions and services designed for teams building cross-platform apps with Capacitor.
 
-Capawesome is an open source organization on [GitHub](https://github.com/capawesome-team) that provides enterprise-grade solutions and services for teams developing cross-platform applications with [Capacitor](https://github.com/ionic-team/capacitor). Capawesome currently maintains more than 50 high-quality [Capacitor Plugins](plugins/index.md) with more than **1,000,000 monthly downloads**. Besides that, Capawesome offers a [Cloud](cloud/index.md) solution for Capacitor Live Updates and a [Consulting](consulting.md) service for Capacitor-related projects.
+Capawesome offers enterprise-grade solutions and services designed for teams building cross-platform apps with Capacitor.
 
 ## Available Resources
 
-### Plugins
+### name: capawesome
+description: Capawesome offers enterprise-grade solutions and services designed for teams building cross-platform apps with Capacitor.
+metadata:
+  source: llms.txt
+  source_url: https://capawesome.io/llms.txt
+  generated: 2026-02-08T17:29:00.115Z
 
-- **Plugins for Capacitor**
+### Available Resources
+
+- **Link**: **Plugins for Capacitor**
+- URL:
   - URL: https://capawesome.io/plugins/index.md
 
-- **Accelerometer**
+- **Link**: **Accelerometer**
+- URL:
   - URL: https://capawesome.io/plugins/accelerometer/index.md
 
-- **Age Signals**
+- **Link**: **Age Signals**
+- URL:
   - URL: https://capawesome.io/plugins/age-signals/index.md
 
-- **Android Battery Optimization**
+- **Link**: **Android Battery Optimization**
+- URL:
   - URL: https://capawesome.io/plugins/android-battery-optimization/index.md
 
-- **Android Dark Mode Support**
+- **Link**: **Android Dark Mode Support**
+- URL:
   - URL: https://capawesome.io/plugins/android-dark-mode-support/index.md
 
-- **Android Edge-to-Edge Support**
+- **Link**: **Android Edge-to-Edge Support**
+- URL:
   - URL: https://capawesome.io/plugins/android-edge-to-edge-support/index.md
 
-- **Android Foreground Service**
+- **Link**: **Android Foreground Service**
+- URL:
   - URL: https://capawesome.io/plugins/android-foreground-service/index.md
 
-- **App Review**
+- **Link**: **App Review**
+- URL:
   - URL: https://capawesome.io/plugins/app-review/index.md
 
-- **App Shortcuts**
+- **Link**: **App Shortcuts**
+- URL:
   - URL: https://capawesome.io/plugins/app-shortcuts/index.md
 
-- **App Update**
+- **Link**: **App Update**
+- URL:
   - URL: https://capawesome.io/plugins/app-update/index.md
 
-- **Asset Manager**
+- **Link**: **Asset Manager**
+- URL:
   - URL: https://capawesome.io/plugins/asset-manager/index.md
 
-- **Audio Player**
+- **Link**: **Audio Player**
+- URL:
   - URL: https://capawesome.io/plugins/audio-player/index.md
 
-- **Audio Recorder**
+- **Link**: **Audio Recorder**
+- URL:
   - URL: https://capawesome.io/plugins/audio-recorder/index.md
 
-- **Background Task**
+- **Link**: **Background Task**
+- URL:
   - URL: https://capawesome.io/plugins/background-task/index.md
 
-- **Badge**
+- **Link**: **Badge**
+- URL:
   - URL: https://capawesome.io/plugins/badge/index.md
 
-- **Barometer**
+- **Link**: **Barometer**
+- URL:
   - URL: https://capawesome.io/plugins/barometer/index.md
 
-- **Biometrics**
+- **Link**: **Biometrics**
+- URL:
   - URL: https://capawesome.io/plugins/biometrics/index.md
 
-- **Bluetooth Low Energy**
+- **Link**: **Bluetooth Low Energy**
+- URL:
   - URL: https://capawesome.io/plugins/bluetooth-low-energy/index.md
 
-- **Cloudinary**
+- **Link**: **Cloudinary**
+- URL:
   - URL: https://capawesome.io/plugins/cloudinary/index.md
 
-- **Contacts**
+- **Link**: **Contacts**
+- URL:
   - URL: https://capawesome.io/plugins/contacts/index.md
 
-- **Datetime Picker**
+- **Link**: **Datetime Picker**
+- URL:
   - URL: https://capawesome.io/plugins/datetime-picker/index.md
 
-- **File Compressor**
+- **Link**: **File Compressor**
+- URL:
   - URL: https://capawesome.io/plugins/file-compressor/index.md
 
-- **File Opener**
+- **Link**: **File Opener**
+- URL:
   - URL: https://capawesome.io/plugins/file-opener/index.md
 
-- **File Picker**
+- **Link**: **File Picker**
+- URL:
   - URL: https://capawesome.io/plugins/file-picker/index.md
 
-- **Geocoder**
+- **Link**: **Geocoder**
+- URL:
   - URL: https://capawesome.io/plugins/geocoder/index.md
 
-- **libSQL**
+- **Link**: **libSQL**
+- URL:
   - URL: https://capawesome.io/plugins/libsql/index.md
 
-- **Live Update**
+- **Link**: **Live Update**
+- URL:
   - URL: https://capawesome.io/plugins/live-update/index.md
 
-- **Managed Configurations**
+- **Link**: **Managed Configurations**
+- URL:
   - URL: https://capawesome.io/plugins/managed-configurations/index.md
 
-- **Media Session**
+- **Link**: **Media Session**
+- URL:
   - URL: https://capawesome.io/plugins/media-session/index.md
 
-- **NFC**
+- **Link**: **NFC**
+- URL:
   - URL: https://capawesome.io/plugins/nfc/index.md
 
-- **Pedometer**
+- **Link**: **Pedometer**
+- URL:
   - URL: https://capawesome.io/plugins/pedometer/index.md
 
-- **Photo Editor**
+- **Link**: **Photo Editor**
+- URL:
   - URL: https://capawesome.io/plugins/photo-editor/index.md
 
-- **PostHog**
+- **Link**: **PostHog**
+- URL:
   - URL: https://capawesome.io/plugins/posthog/index.md
 
-- **Printer**
+- **Link**: **Printer**
+- URL:
   - URL: https://capawesome.io/plugins/printer/index.md
 
-- **Purchases**
+- **Link**: **Purchases**
+- URL:
   - URL: https://capawesome.io/plugins/purchases/index.md
 
-- **RealtimeKit**
+- **Link**: **RealtimeKit**
+- URL:
   - URL: https://capawesome.io/plugins/realtimekit/index.md
 
-- **Screen Orientation**
+- **Link**: **Screen Orientation**
+- URL:
   - URL: https://capawesome.io/plugins/screen-orientation/index.md
 
-- **Screenshot**
+- **Link**: **Screenshot**
+- URL:
   - URL: https://capawesome.io/plugins/screenshot/index.md
 
-- **Secure Preferences**
+- **Link**: **Secure Preferences**
+- URL:
   - URL: https://capawesome.io/plugins/secure-preferences/index.md
 
-- **Share Target**
+- **Link**: **Share Target**
+- URL:
   - URL: https://capawesome.io/plugins/share-target/index.md
 
-- **Speech Recognition**
+- **Link**: **Speech Recognition**
+- URL:
   - URL: https://capawesome.io/plugins/speech-recognition/index.md
 
-- **Speech Synthesis**
+- **Link**: **Speech Synthesis**
+- URL:
   - URL: https://capawesome.io/plugins/speech-synthesis/index.md
 
-- **SQLite**
+- **Link**: **SQLite**
+- URL:
   - URL: https://capawesome.io/plugins/sqlite/index.md
 
-- **Square Mobile Payments**
+- **Link**: **Square Mobile Payments**
+- URL:
   - URL: https://capawesome.io/plugins/square-mobile-payments/index.md
 
-- **Superwall**
+- **Link**: **Superwall**
+- URL:
   - URL: https://capawesome.io/plugins/superwall/index.md
 
-- **Torch**
+- **Link**: **Torch**
+- URL:
   - URL: https://capawesome.io/plugins/torch/index.md
 
-- **Wifi**
+- **Link**: **Wifi**
+- URL:
   - URL: https://capawesome.io/plugins/wifi/index.md
 
-- **Zip**
+- **Link**: **Zip**
+- URL:
   - URL: https://capawesome.io/plugins/zip/index.md
 
-- **Firebase Plugins for Capacitor**
+- **Link**: **Firebase Plugins for Capacitor**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/index.md
 
-- **Analytics**
+- **Link**: **Analytics**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/analytics/index.md
 
-- **App Check**
+- **Link**: **App Check**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/app-check/index.md
 
-- **App**
+- **Link**: **App**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/app/index.md
 
-- **Authentication**
+- **Link**: **Authentication**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/authentication/index.md
 
-- **Cloud Firestore**
+- **Link**: **Cloud Firestore**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/cloud-firestore/index.md
 
-- **Cloud Functions**
+- **Link**: **Cloud Functions**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/cloud-functions/index.md
 
-- **Cloud Messaging**
+- **Link**: **Cloud Messaging**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/cloud-messaging/index.md
 
-- **Cloud Storage**
+- **Link**: **Cloud Storage**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/cloud-storage/index.md
 
-- **Crashlytics**
+- **Link**: **Crashlytics**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/crashlytics/index.md
 
-- **Performance Monitoring**
+- **Link**: **Performance Monitoring**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/performance-monitoring/index.md
 
-- **Remote Config**
+- **Link**: **Remote Config**
+- URL:
   - URL: https://capawesome.io/plugins/firebase/remote-config/index.md
 
-- **ML Kit Plugins for Capacitor**
+- **Link**: **ML Kit Plugins for Capacitor**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/index.md
 
-- **Barcode Scanning**
+- **Link**: **Barcode Scanning**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/barcode-scanning/index.md
 
-- **Document Scanner**
+- **Link**: **Document Scanner**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/document-scanner/index.md
 
-- **Face Detection**
+- **Link**: **Face Detection**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/face-detection/index.md
 
-- **Face Mesh Detection**
+- **Link**: **Face Mesh Detection**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/face-mesh-detection/index.md
 
-- **Selfie Segmentation**
+- **Link**: **Selfie Segmentation**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/selfie-segmentation/index.md
 
-- **Subject Segmentation**
+- **Link**: **Subject Segmentation**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/subject-segmentation/index.md
 
-- **Translation**
+- **Link**: **Translation**
+- URL:
   - URL: https://capawesome.io/plugins/mlkit/translation/index.md
 
-### Cloud
-
-- **Capawesome Cloud**
+- **Link**: **Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/cloud/index.md
 
-- **API**
+- **Link**: **API**
+- URL:
   - URL: https://capawesome.io/cloud/api/index.md
 
-- **CLI**
+- **Link**: **CLI**
+- URL:
   - URL: https://capawesome.io/cloud/cli/index.md
 
-- **FAQ**
+- **Link**: **FAQ**
+- URL:
   - URL: https://capawesome.io/cloud/faq/index.md
 
-- **Support**
+- **Link**: **Support**
+- URL:
   - URL: https://capawesome.io/cloud/support/index.md
 
-- **Authentication**
+- **Link**: **Authentication**
+- URL:
   - URL: https://capawesome.io/cloud/accounts/authentication/index.md
 
-- **App Submissions**
+- **Link**: **App Submissions**
+- URL:
   - URL: https://capawesome.io/cloud/app-store-publishing/index.md
 
-- **Destinations**
+- **Link**: **Destinations**
+- URL:
   - URL: https://capawesome.io/cloud/app-store-publishing/destinations/index.md
 
-- **Apple App Store**
+- **Link**: **Apple App Store**
+- URL:
   - URL: https://capawesome.io/cloud/app-store-publishing/destinations/apple-app-store/index.md
 
-- **Google Play Store**
+- **Link**: **Google Play Store**
+- URL:
   - URL: https://capawesome.io/cloud/app-store-publishing/destinations/google-play-store/index.md
 
-- **Git Integrations**
+- **Link**: **Git Integrations**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/index.md
 
-- **Azure DevOps**
+- **Link**: **Azure DevOps**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/azure-devops/index.md
 
-- **Bitbucket**
+- **Link**: **Bitbucket**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/bitbucket/index.md
 
-- **GitHub Enterprise**
+- **Link**: **GitHub Enterprise**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/github-enterprise/index.md
 
-- **GitHub**
+- **Link**: **GitHub**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/github/index.md
 
-- **GitLab Self-Managed**
+- **Link**: **GitLab Self-Managed**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/gitlab-self-managed/index.md
 
-- **GitLab**
+- **Link**: **GitLab**
+- URL:
   - URL: https://capawesome.io/cloud/integrations/gitlab/index.md
 
-- **Live Updates for Capacitor**
+- **Link**: **Live Updates for Capacitor**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/index.md
 
-- **Bundles**
+- **Link**: **Bundles**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/bundles/index.md
 
-- **Channels**
+- **Link**: **Channels**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/channels/index.md
 
-- **Devices**
+- **Link**: **Devices**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/devices/index.md
 
-- **FAQ**
+- **Link**: **FAQ**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/faq/index.md
 
-- **Logs**
+- **Link**: **Logs**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/logs/index.md
 
-- **Getting Started with Live Updates (Capacitor 6)**
+- **Link**: **Getting Started with Live Updates (Capacitor 6)**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/setup-capacitor-6/index.md
 
-- **Getting Started with Live Updates**
+- **Link**: **Getting Started with Live Updates**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/setup-capacitor-7/index.md
 
-- **Getting started**
+- **Link**: **Getting started**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/setup/index.md
 
-- **Code Signing**
+- **Link**: **Code Signing**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/code-signing/index.md
 
-- **Delta Updates**
+- **Link**: **Delta Updates**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/delta-updates/index.md
 
-- **Git Integration**
+- **Link**: **Git Integration**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/git-integration/index.md
 
-- **Privacy**
+- **Link**: **Privacy**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/privacy/index.md
 
-- **Rollbacks**
+- **Link**: **Rollbacks**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/rollbacks/index.md
 
-- **Rollouts**
+- **Link**: **Rollouts**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/rollouts/index.md
 
-- **Self-Hosting**
+- **Link**: **Self-Hosting**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/advanced/self-hosting/index.md
 
-- **Advanced Usage**
+- **Link**: **Advanced Usage**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/guides/advanced-usage/index.md
 
-- **Best Practices**
+- **Link**: **Best Practices**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/guides/best-practices/index.md
 
-- **Update Strategies**
+- **Link**: **Update Strategies**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/guides/update-strategies/index.md
 
-- **Azure DevOps**
+- **Link**: **Azure DevOps**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/integrations/azure-devops/index.md
 
-- **Bitbucket Pipelines**
+- **Link**: **Bitbucket Pipelines**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/integrations/bitbucket-pipelines/index.md
 
-- **GitHub Actions**
+- **Link**: **GitHub Actions**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/integrations/github-actions/index.md
 
-- **GitLab CI/CD**
+- **Link**: **GitLab CI/CD**
+- URL:
   - URL: https://capawesome.io/cloud/live-updates/integrations/gitlab-ci/index.md
 
-- **Native Builds**
+- **Link**: **Native Builds**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/index.md
 
-- **Build Stacks**
+- **Link**: **Build Stacks**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/build-stacks/index.md
 
-- **Build Types**
+- **Link**: **Build Types**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/build-types/index.md
 
-- **Configuration**
+- **Link**: **Configuration**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/configuration/index.md
 
-- **Environments**
+- **Link**: **Environments**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/environments/index.md
 
-- **Getting started**
+- **Link**: **Getting started**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/setup/index.md
 
-- **Troubleshooting**
+- **Link**: **Troubleshooting**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/troubleshooting/index.md
 
-- **Signing Certificates**
+- **Link**: **Signing Certificates**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/certificates/index.md
 
-- **Android**
+- **Link**: **Android**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/certificates/android/index.md
 
-- **iOS**
+- **Link**: **iOS**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/certificates/ios/index.md
 
-- **Auto-Increment Build Numbers**
+- **Link**: **Auto-Increment Build Numbers**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/auto-incrementing-build-numbers/index.md
 
-- **Custom iOS Provisioning Profiles**
+- **Link**: **Custom iOS Provisioning Profiles**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/custom-ios-provisioning-profiles/index.md
 
-- **Overwrite Native Configurations**
+- **Link**: **Overwrite Native Configurations**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/native-configurations/index.md
 
-- **Install Private npm Packages**
+- **Link**: **Install Private npm Packages**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/npm-private-registry/index.md
 
-- **Override Java Version**
+- **Link**: **Override Java Version**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/override-java-version/index.md
 
-- **Configure Web Build Script**
+- **Link**: **Configure Web Build Script**
+- URL:
   - URL: https://capawesome.io/cloud/native-builds/guides/web-build-script/index.md
 
-- **Audit Logs**
+- **Link**: **Audit Logs**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/audit-logs/index.md
 
-- **Organization and User Management**
+- **Link**: **Organization and User Management**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/memberships/index.md
 
-- **Teams**
+- **Link**: **Teams**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/teams/index.md
 
-- **Two-Factor Authentication**
+- **Link**: **Two-Factor Authentication**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/two-factor-authentication/index.md
 
-- **Single Sign-On (SSO)**
+- **Link**: **Single Sign-On (SSO)**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/sso/index.md
 
-- **Azure AD (SAML)**
+- **Link**: **Azure AD (SAML)**
+- URL:
   - URL: https://capawesome.io/cloud/organizations/sso/azure-saml/index.md
 
-### Insiders
-
-- **Professional Capacitor Plugins for Production Apps**
+- **Link**: **Professional Capacitor Plugins for Production Apps**
+- URL:
   - URL: https://capawesome.io/insiders/index.md
 
-- **FAQ**
+- **Link**: **FAQ**
+- URL:
   - URL: https://capawesome.io/insiders/faq/index.md
 
-- **Getting started**
+- **Link**: **Getting started**
+- URL:
   - URL: https://capawesome.io/insiders/getting-started/index.md
 
-- **License**
+- **Link**: **License**
+- URL:
   - URL: https://capawesome.io/insiders/license/index.md
 
-- **Pricing**
+- **Link**: **Pricing**
+- URL:
   - URL: https://capawesome.io/insiders/pricing/index.md
 
-- **Support**
+- **Link**: **Support**
+- URL:
   - URL: https://capawesome.io/insiders/support/index.md
 
-- **AWS Amplify**
+- **Link**: **AWS Amplify**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/aws-amplify/index.md
 
-- **Azure DevOps**
+- **Link**: **Azure DevOps**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/azure-devops/index.md
 
-- **Bitbucket Pipelines**
+- **Link**: **Bitbucket Pipelines**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/bitbucket-pipelines/index.md
 
-- **Capawesome Cloud**
+- **Link**: **Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/capawesome-cloud/index.md
 
-- **Cloudflare Pages**
+- **Link**: **Cloudflare Pages**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/cloudflare-pages/index.md
 
-- **GitHub Actions**
+- **Link**: **GitHub Actions**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/github-actions/index.md
 
-- **GitLab CI/CD**
+- **Link**: **GitLab CI/CD**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/gitlab-ci/index.md
 
-- **Ionic Appflow**
+- **Link**: **Ionic Appflow**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/ionic-appflow/index.md
 
-- **Jenkins**
+- **Link**: **Jenkins**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/jenkins/index.md
 
-- **Vercel**
+- **Link**: **Vercel**
+- URL:
   - URL: https://capawesome.io/insiders/integrations/vercel/index.md
 
-### Consulting
-
-- **Consulting**
+- **Link**: **Consulting**
+- URL:
   - URL: https://capawesome.io/consulting/index.md
 
-### Blog
-
-- **Blog**
+- **Link**: **Blog**
+- URL:
   - URL: https://capawesome.io/blog/index.md
 
-- **Capawesome December 2024 Update**
+- **Link**: **Capawesome December 2024 Update**
+- URL:
   - URL: https://capawesome.io/blog/2024-december-update/index.md
 
-- **Capawesome November 2024 Update**
+- **Link**: **Capawesome November 2024 Update**
+- URL:
   - URL: https://capawesome.io/blog/2024-november-update/index.md
 
-- **Capawesome April 2025 Update**
+- **Link**: **Capawesome April 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-april-update/index.md
 
-- **Capawesome August 2025 Update**
+- **Link**: **Capawesome August 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-august-update/index.md
 
-- **Capawesome December 2025 Update**
+- **Link**: **Capawesome December 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-december-update/index.md
 
-- **Capawesome February 2025 Update**
+- **Link**: **Capawesome February 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-february-update/index.md
 
-- **Capawesome January 2025 Update**
+- **Link**: **Capawesome January 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-january-update/index.md
 
-- **Capawesome July 2025 Update**
+- **Link**: **Capawesome July 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-july-update/index.md
 
-- **Capawesome June 2025 Update**
+- **Link**: **Capawesome June 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-june-update/index.md
 
-- **Capawesome March 2025 Update**
+- **Link**: **Capawesome March 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-march-update/index.md
 
-- **Capawesome May 2025 Update**
+- **Link**: **Capawesome May 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-may-update/index.md
 
-- **Capawesome November 2025 Update**
+- **Link**: **Capawesome November 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-november-update/index.md
 
-- **Capawesome October 2025 Update**
+- **Link**: **Capawesome October 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-october-update/index.md
 
-- **Capawesome September 2025 Update**
+- **Link**: **Capawesome September 2025 Update**
+- URL:
   - URL: https://capawesome.io/blog/2025-september-update/index.md
 
-- **Capawesome Cloud - The Complete Alternative to Ionic Appflow**
+- **Link**: **Capawesome Cloud - The Complete Alternative to Ionic Appflow**
+- URL:
   - URL: https://capawesome.io/blog/alternative-to-appflow/index.md
 
-- **Alternative to the Capacitor Community Contacts plugin**
+- **Link**: **Alternative to the Capacitor Community Contacts plugin**
+- URL:
   - URL: https://capawesome.io/blog/alternative-to-capacitor-community-contacts-plugin/index.md
 
-- **Alternative to the Capacitor Community SQLite plugin**
+- **Link**: **Alternative to the Capacitor Community SQLite plugin**
+- URL:
   - URL: https://capawesome.io/blog/alternative-to-capacitor-community-sqlite-plugin/index.md
 
-- **Alternative to the Ionic Secure Storage plugin**
+- **Link**: **Alternative to the Ionic Secure Storage plugin**
+- URL:
   - URL: https://capawesome.io/blog/alternative-to-ionic-secure-storage-plugin/index.md
 
-- **Announcing Capawesome Cloud Native Builds**
+- **Link**: **Announcing Capawesome Cloud Native Builds**
+- URL:
   - URL: https://capawesome.io/blog/announcing-capawesome-cloud-native-builds/index.md
 
-- **Announcing Capawesome Cloud Web Builds**
+- **Link**: **Announcing Capawesome Cloud Web Builds**
+- URL:
   - URL: https://capawesome.io/blog/announcing-capawesome-cloud-web-builds/index.md
 
-- **Announcing the Audio Recorder Plugin for Capacitor**
+- **Link**: **Announcing the Audio Recorder Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-audio-recorder-plugin/index.md
 
-- **Announcing the Capacitor Barometer Plugin**
+- **Link**: **Announcing the Capacitor Barometer Plugin**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-barometer-plugin/index.md
 
-- **Announcing the Biometrics Plugin for Capacitor**
+- **Link**: **Announcing the Biometrics Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-biometrics-plugin/index.md
 
-- **Announcing the Bluetooth Low Energy Plugin for Capacitor**
+- **Link**: **Announcing the Bluetooth Low Energy Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-bluetooth-low-energy-plugin/index.md
 
-- **Announcing the Contacts Plugin for Capacitor**
+- **Link**: **Announcing the Contacts Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-contacts-plugin/index.md
 
-- **Announcing the Firebase Cloud Firestore Plugin for Capacitor**
+- **Link**: **Announcing the Firebase Cloud Firestore Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-firebase-cloud-firestore-plugin/index.md
 
-- **Announcing the Live Update Plugin for Capacitor**
+- **Link**: **Announcing the Live Update Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-live-update-plugin/index.md
 
-- **Announcing the ML Kit Barcode Scanning Plugin for Capacitor**
+- **Link**: **Announcing the ML Kit Barcode Scanning Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-mlkit-barcode-scanner-plugin/index.md
 
-- **Announcing the NFC Plugin for Capacitor**
+- **Link**: **Announcing the NFC Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-nfc-plugin/index.md
 
-- **Announcing the Secure Preferences Plugin for Capacitor**
+- **Link**: **Announcing the Secure Preferences Plugin for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-secure-preferences-plugin/index.md
 
-- **Announcing the Capacitor SQLite Plugin**
+- **Link**: **Announcing the Capacitor SQLite Plugin**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capacitor-sqlite-plugin/index.md
 
-- **Announcing the Capawesome NPM Registry**
+- **Link**: **Announcing the Capawesome NPM Registry**
+- URL:
   - URL: https://capawesome.io/blog/announcing-the-capawesome-npm-registry/index.md
 
-- **Capacitor Live Update Plugin 7.3.0 Release**
+- **Link**: **Capacitor Live Update Plugin 7.3.0 Release**
+- URL:
   - URL: https://capawesome.io/blog/capacitor-live-update-7-3-0-release/index.md
 
-- **Capawesome CLI 4.0.0 Release**
+- **Link**: **Capawesome CLI 4.0.0 Release**
+- URL:
   - URL: https://capawesome.io/blog/capawesome-cli-4-0-0-release/index.md
 
-- **Channel Pausing for Capawesome Cloud Live Updates**
+- **Link**: **Channel Pausing for Capawesome Cloud Live Updates**
+- URL:
   - URL: https://capawesome.io/blog/capawesome-cloud-channel-pausing/index.md
 
-- **Announcing the Capawesome Cloud Open Source Program**
+- **Link**: **Announcing the Capawesome Cloud Open Source Program**
+- URL:
   - URL: https://capawesome.io/blog/capawesome-cloud-open-source-program/index.md
 
-- **Capawesome Cloud Achieves SOC 2 Type 2 Compliance**
+- **Link**: **Capawesome Cloud Achieves SOC 2 Type 2 Compliance**
+- URL:
   - URL: https://capawesome.io/blog/capawesome-cloud-soc-2-type-2-compliance/index.md
 
-- **Changes to the Capawesome Insiders program**
+- **Link**: **Changes to the Capawesome Insiders program**
+- URL:
   - URL: https://capawesome.io/blog/capawesome-insiders-goals-changes/index.md
 
-- **Encrypting SQLite databases in Capacitor**
+- **Link**: **Encrypting SQLite databases in Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/encrypting-capacitor-sqlite-database/index.md
 
-- **Exploring the Capacitor Audio Recorder API**
+- **Link**: **Exploring the Capacitor Audio Recorder API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-audio-recorder-api/index.md
 
-- **Exploring the Capacitor Barometer API**
+- **Link**: **Exploring the Capacitor Barometer API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-barometer-api/index.md
 
-- **Exploring the Capacitor Biometrics API**
+- **Link**: **Exploring the Capacitor Biometrics API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-biometrics-api/index.md
 
-- **Exploring the Capacitor Contacts API**
+- **Link**: **Exploring the Capacitor Contacts API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-contacts-api/index.md
 
-- **Exploring the Capacitor File Compressor API**
+- **Link**: **Exploring the Capacitor File Compressor API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/index.md
 
-- **Exploring the Capacitor Live Update API**
+- **Link**: **Exploring the Capacitor Live Update API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-live-update-api/index.md
 
-- **Exploring the Capacitor NFC API**
+- **Link**: **Exploring the Capacitor NFC API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-nfc-api/index.md
 
-- **Exploring the Capacitor Printer API**
+- **Link**: **Exploring the Capacitor Printer API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-printer-api/index.md
 
-- **Exploring the Capacitor Secure Preferences API**
+- **Link**: **Exploring the Capacitor Secure Preferences API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-secure-preferences-api/index.md
 
-- **Exploring the Capacitor Speech Recognition API**
+- **Link**: **Exploring the Capacitor Speech Recognition API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-speech-recognition-api/index.md
 
-- **Exploring the Capacitor SQLite API**
+- **Link**: **Exploring the Capacitor SQLite API**
+- URL:
   - URL: https://capawesome.io/blog/exploring-the-capacitor-sqlite-api/index.md
 
-- **How Live Updates for Capacitor work**
+- **Link**: **How Live Updates for Capacitor work**
+- URL:
   - URL: https://capawesome.io/blog/how-live-updates-for-capacitor-work/index.md
 
-- **How to Build a Heart Rate Monitor with Capacitor**
+- **Link**: **How to Build a Heart Rate Monitor with Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/how-to-build-a-heart-rate-monitor-with-capacitor/index.md
 
-- **How to Build an Ionic Barcode Scanner with Capacitor**
+- **Link**: **How to Build an Ionic Barcode Scanner with Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/how-to-build-an-ionic-barcode-scanner-with-capacitor/index.md
 
-- **How to Enable Developer Options on Android**
+- **Link**: **How to Enable Developer Options on Android**
+- URL:
   - URL: https://capawesome.io/blog/how-to-enable-android-developer-mode/index.md
 
-- **How to Enable or Disable Developer Mode on iOS**
+- **Link**: **How to Enable or Disable Developer Mode on iOS**
+- URL:
   - URL: https://capawesome.io/blog/how-to-enable-ios-developer-mode/index.md
 
-- **How to gradually roll out Live Updates for Capacitor apps**
+- **Link**: **How to gradually roll out Live Updates for Capacitor apps**
+- URL:
   - URL: https://capawesome.io/blog/how-to-gradually-roll-out-capacitor-live-updates/index.md
 
-- **How to patch a Capacitor plugin**
+- **Link**: **How to patch a Capacitor plugin**
+- URL:
   - URL: https://capawesome.io/blog/how-to-patch-a-capacitor-plugin/index.md
 
-- **How to restrict Capacitor Live Updates to Native Versions**
+- **Link**: **How to restrict Capacitor Live Updates to Native Versions**
+- URL:
   - URL: https://capawesome.io/blog/how-to-restrict-capacitor-live-updates-to-native-versions/index.md
 
-- **How to Securely Store Credentials with Capacitor**
+- **Link**: **How to Securely Store Credentials with Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/how-to-securely-store-credentials-with-capacitor/index.md
 
-- **How Usage is Tracked in Capawesome Cloud**
+- **Link**: **How Usage is Tracked in Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/blog/how-usage-is-tracked-in-capawesome-cloud/index.md
 
-- **Install Tailwind CSS with Ionic Framework**
+- **Link**: **Install Tailwind CSS with Ionic Framework**
+- URL:
   - URL: https://capawesome.io/blog/install-tailwind-css-with-ionic-framework/index.md
 
-- **Live Updates for Nuxt Capacitor Apps with Capawesome Cloud**
+- **Link**: **Live Updates for Nuxt Capacitor Apps with Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/blog/live-updates-for-nuxt-capacitor/index.md
 
-- **Migrating from App Center to Capawesome Cloud**
+- **Link**: **Migrating from App Center to Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/blog/migrating-from-app-center-to-capawesome-cloud/index.md
 
-- **Migrating from Capgo to Capawesome Cloud**
+- **Link**: **Migrating from Capgo to Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/blog/migrating-from-capgo-to-capawesome-cloud/index.md
 
-- **Migrating from Ionic Appflow to Capawesome Cloud**
+- **Link**: **Migrating from Ionic Appflow to Capawesome Cloud**
+- URL:
   - URL: https://capawesome.io/blog/migrating-from-ionic-appflow-to-capawesome-cloud/index.md
 
-- **Showcase: Appreciation Jar - Send appreciative messages to your partner**
+- **Link**: **Showcase: Appreciation Jar - Send appreciative messages to your partner**
+- URL:
   - URL: https://capawesome.io/blog/showcase-appreciation-jar/index.md
 
-- **Showcase: CostPal - Price tracking app for Costco**
+- **Link**: **Showcase: CostPal - Price tracking app for Costco**
+- URL:
   - URL: https://capawesome.io/blog/showcase-costpal/index.md
 
-- **Showcase: LEAGUES - The visual football app**
+- **Link**: **Showcase: LEAGUES - The visual football app**
+- URL:
   - URL: https://capawesome.io/blog/showcase-leagues/index.md
 
-- **Showcase: MyBodyTutor - A Personalized Nutrition and Weight Loss Coaching App**
+- **Link**: **Showcase: MyBodyTutor - A Personalized Nutrition and Weight Loss Coaching App**
+- URL:
   - URL: https://capawesome.io/blog/showcase-mybodytutor/index.md
 
-- **Support 16 KB page sizes in Android with Capacitor**
+- **Link**: **Support 16 KB page sizes in Android with Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/support-16kb-page-sizes-with-capacitor/index.md
 
-- **Tailwind CSS Plugin for Ionic Framework**
+- **Link**: **Tailwind CSS Plugin for Ionic Framework**
+- URL:
   - URL: https://capawesome.io/blog/tailwind-css-plugin-for-ionic-framework/index.md
 
-- **The File Handling Guide for Capacitor**
+- **Link**: **The File Handling Guide for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/the-file-handling-guide-for-capacitor/index.md
 
-- **The Push Notifications Guide for Capacitor**
+- **Link**: **The Push Notifications Guide for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/index.md
 
-- **The Android Troubleshooting Guide for Capacitor**
+- **Link**: **The Android Troubleshooting Guide for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/troubleshooting-capacitor-android-issues/index.md
 
-- **The iOS Troubleshooting Guide for Capacitor**
+- **Link**: **The iOS Troubleshooting Guide for Capacitor**
+- URL:
   - URL: https://capawesome.io/blog/troubleshooting-capacitor-ios-issues/index.md
 
-- **Updating to Capacitor 6.0**
+- **Link**: **Updating to Capacitor 6.0**
+- URL:
   - URL: https://capawesome.io/blog/updating-to-capacitor-6/index.md
 
-- **Updating to Capacitor 7.0**
+- **Link**: **Updating to Capacitor 7.0**
+- URL:
   - URL: https://capawesome.io/blog/updating-to-capacitor-7/index.md
 
-- **Updating to Capacitor 8.0**
+- **Link**: **Updating to Capacitor 8.0**
+- URL:
   - URL: https://capawesome.io/blog/updating-to-capacitor-8/index.md
+
+### How to Use This Skill
 
 ## How to Use This Skill
 

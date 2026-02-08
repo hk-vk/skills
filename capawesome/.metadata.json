@@ -1,8 +1,8 @@
 {
   "skillName": "capawesome",
-  "sourceUrl": "https://capawesome.io/llms.txt",
-  "contentHash": "126da3560adbbac6d11b0d6e9abcab91bdac188951447fc7d37f11ab0c624261",
-  "generatedAt": "2026-02-08T17:27:27.454Z",
-  "updatedAt": "2026-02-08T17:27:27.454Z",
+  "sourceUrl": null,
+  "contentHash": "09dfd04990615c888891bb2ad7feb82ed23f845845034fa252f5abe42116345e",
+  "generatedAt": "2026-02-08T17:29:00.569Z",
+  "updatedAt": "2026-02-08T17:29:00.569Z",
   "generatorVersion": "1.0.0"
 }
