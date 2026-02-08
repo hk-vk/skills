@@ -1,8 +1,8 @@
 {
   "skillName": "last9",
-  "sourceUrl": "https://last9.io/llms.txt",
-  "contentHash": "2e8f34eac6788429a773bab8369c5c4f8e05f1de96a492daddeae839402cd044",
-  "generatedAt": "2026-02-08T17:01:00.892Z",
-  "updatedAt": "2026-02-08T17:01:00.892Z",
+  "sourceUrl": null,
+  "contentHash": "66afb4b5432bf82717ef14e14e1fd901be6035e6f02b5f10c22a96beb496fd45",
+  "generatedAt": "2026-02-08T17:29:57.082Z",
+  "updatedAt": "2026-02-08T17:29:57.082Z",
   "generatorVersion": "1.0.0"
 }
