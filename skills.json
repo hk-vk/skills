@@ -37,6 +37,10 @@
       "sourceUrl": null
     },
     {
+      "name": "openai-compatible-providers",
+      "sourceUrl": "https://ai-sdk.dev/"
+    },
+    {
       "name": "perplexity",
       "sourceUrl": null
     },
