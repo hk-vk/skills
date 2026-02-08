@@ -75,6 +75,10 @@
     {
       "name": "zapier",
       "sourceUrl": null
+    },
+    {
+      "name": "zapier-skill",
+      "sourceUrl": "https://www.answer.ai/llms.txt"
     }
   ]
 }
