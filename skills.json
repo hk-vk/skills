@@ -41,6 +41,10 @@
       "sourceUrl": null
     },
     {
+      "name": "resend",
+      "sourceUrl": "https://resend.com/"
+    },
+    {
       "name": "run-ai-with-an-api",
       "sourceUrl": "https://replicate.com"
     },
