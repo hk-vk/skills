@@ -1,0 +1,56 @@
+{
+  "skills": [
+    {
+      "name": "capawesome",
+      "sourceUrl": "https://capawesome.io/llms.txt"
+    },
+    {
+      "name": "cloudflare-developer-documentation",
+      "sourceUrl": "https://developers.cloudflare.com/llms.txt"
+    },
+    {
+      "name": "coinbase-developer-documentation",
+      "sourceUrl": "https://docs.cdp.coinbase.com/llms.txt"
+    },
+    {
+      "name": "coss-ui",
+      "sourceUrl": "https://coss.com/ui/llms.txt"
+    },
+    {
+      "name": "docker-documentation",
+      "sourceUrl": "https://docs.docker.com/llms.txt"
+    },
+    {
+      "name": "last9",
+      "sourceUrl": "https://last9.io/llms.txt"
+    },
+    {
+      "name": "nuxt-docs",
+      "sourceUrl": "https://nuxt.com/llms.txt"
+    },
+    {
+      "name": "perplexity",
+      "sourceUrl": "https://docs.perplexity.ai/llms.txt"
+    },
+    {
+      "name": "prisma-documentation",
+      "sourceUrl": "https://www.prisma.io/llms.txt"
+    },
+    {
+      "name": "run-ai-with-an-api",
+      "sourceUrl": "https://replicate.com"
+    },
+    {
+      "name": "strapi-documentation",
+      "sourceUrl": "https://docs.strapi.io/llms.txt"
+    },
+    {
+      "name": "stripe-documentation",
+      "sourceUrl": "https://docs.stripe.com/llms.txt"
+    },
+    {
+      "name": "zapier",
+      "sourceUrl": "https://docs.zapier.com/llms.txt"
+    }
+  ]
+}
