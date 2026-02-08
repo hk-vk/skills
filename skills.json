@@ -2,7 +2,7 @@
   "skills": [
     {
       "name": "capawesome",
-      "sourceUrl": "https://capawesome.io/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "cloudflare-developer-documentation",
