@@ -26,7 +26,7 @@
     },
     {
       "name": "nuxt-docs",
-      "sourceUrl": "https://nuxt.com/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "perplexity",
