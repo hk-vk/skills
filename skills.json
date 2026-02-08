@@ -25,6 +25,10 @@
       "sourceUrl": null
     },
     {
+      "name": "elevenlabs-documentation",
+      "sourceUrl": "https://elevenlabs.io/docs/llms.txt"
+    },
+    {
       "name": "last9",
       "sourceUrl": null
     },
