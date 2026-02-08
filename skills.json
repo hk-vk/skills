@@ -42,7 +42,7 @@
     },
     {
       "name": "strapi-documentation",
-      "sourceUrl": "https://docs.strapi.io/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "stripe-documentation",
