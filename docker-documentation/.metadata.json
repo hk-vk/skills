@@ -1,8 +1,8 @@
 {
   "skillName": "docker-documentation",
-  "sourceUrl": "https://docs.docker.com/llms.txt",
-  "contentHash": "03b3d3e60f7dee074ef4f6b920a1ba55853017c5d3126ac10ac44e0b6c6dcacb",
-  "generatedAt": "2026-02-08T17:12:44.385Z",
-  "updatedAt": "2026-02-08T17:12:44.385Z",
+  "sourceUrl": null,
+  "contentHash": "03ea4987808b536a443237f7973a300826936081435d6e2da51c19da89a0cf6a",
+  "generatedAt": "2026-02-08T17:29:45.682Z",
+  "updatedAt": "2026-02-08T17:29:45.682Z",
   "generatorVersion": "1.0.0"
 }
