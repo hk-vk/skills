@@ -1,8 +1,8 @@
 {
   "skillName": "coinbase-developer-documentation",
-  "sourceUrl": "https://docs.cdp.coinbase.com/llms.txt",
-  "contentHash": "7ea71f6fb233db46e79d85337402c7f9f3805bbd0ee88a327b86308fc36ee004",
-  "generatedAt": "2026-02-08T17:04:30.950Z",
-  "updatedAt": "2026-02-08T17:04:30.950Z",
+  "sourceUrl": null,
+  "contentHash": "dc4cfb72d1cd67d599d794c60dbdf5f2364a5a58e1f90ffb15c0d95f46855b88",
+  "generatedAt": "2026-02-08T17:29:23.961Z",
+  "updatedAt": "2026-02-08T17:29:23.961Z",
   "generatorVersion": "1.0.0"
 }
