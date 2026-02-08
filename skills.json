@@ -22,7 +22,7 @@
     },
     {
       "name": "last9",
-      "sourceUrl": "https://last9.io/llms.txt"
+      "sourceUrl": null
     },
     {
       "name": "nuxt-docs",
