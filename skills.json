@@ -1,6 +1,10 @@
 {
   "skills": [
     {
+      "name": "coss-ui",
+      "sourceUrl": "https://coss.com/ui/llms.txt"
+    },
+    {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
     }
