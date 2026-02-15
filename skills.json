@@ -5,6 +5,10 @@
       "sourceUrl": "https://coss.com/ui/llms.txt"
     },
     {
+      "name": "github-docs",
+      "sourceUrl": "https://docs.github.com/llms.txt"
+    },
+    {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
     }
