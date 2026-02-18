@@ -9,6 +9,10 @@
       "sourceUrl": "https://docs.github.com/llms.txt"
     },
     {
+      "name": "httpsdocsbaseorgget-startedllmstxt",
+      "sourceUrl": "https://docs.base.org/get-started/llms.txt"
+    },
+    {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
     }
