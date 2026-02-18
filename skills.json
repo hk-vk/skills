@@ -1,6 +1,10 @@
 {
   "skills": [
     {
+      "name": "base-account",
+      "sourceUrl": "https://docs.base.org/base-account/llms.txt"
+    },
+    {
       "name": "coss-ui",
       "sourceUrl": "https://coss.com/ui/llms.txt"
     },
