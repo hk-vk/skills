@@ -31,6 +31,10 @@
     {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
+    },
+    {
+      "name": "onchainkit",
+      "sourceUrl": "https://docs.base.org/onchainkit/llms.txt"
     }
   ]
 }
