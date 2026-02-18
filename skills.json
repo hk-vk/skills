@@ -9,6 +9,10 @@
       "sourceUrl": "https://docs.github.com/llms.txt"
     },
     {
+      "name": "httpsdocsbaseorgbase-chainllmstxt",
+      "sourceUrl": "https://docs.base.org/base-chain/llms.txt"
+    },
+    {
       "name": "httpsdocsbaseorgget-startedllmstxt",
       "sourceUrl": "https://docs.base.org/get-started/llms.txt"
     },
