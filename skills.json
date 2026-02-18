@@ -13,6 +13,10 @@
       "sourceUrl": "https://docs.base.org/get-started/llms.txt"
     },
     {
+      "name": "httpsdocsbaseorgllmstxt",
+      "sourceUrl": "https://docs.base.org/llms.txt"
+    },
+    {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
     }
