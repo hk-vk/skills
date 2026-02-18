@@ -5,6 +5,14 @@
       "sourceUrl": "https://docs.base.org/base-account/llms.txt"
     },
     {
+      "name": "base-cookbook",
+      "sourceUrl": "https://docs.base.org/cookbook/llms.txt"
+    },
+    {
+      "name": "base-learn",
+      "sourceUrl": "https://docs.base.org/learn/llms.txt"
+    },
+    {
       "name": "coss-ui",
       "sourceUrl": "https://coss.com/ui/llms.txt"
     },
