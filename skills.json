@@ -25,6 +25,10 @@
       "sourceUrl": "https://docs.base.org/llms.txt"
     },
     {
+      "name": "mini-apps",
+      "sourceUrl": "https://docs.base.org/mini-apps/llms.txt"
+    },
+    {
       "name": "nuxt-ui",
       "sourceUrl": "https://ui.nuxt.com/llms.txt"
     }
