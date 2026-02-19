@@ -21,6 +21,10 @@
       "sourceUrl": "https://r3f.docs.pmnd.rs/llms-full.txt"
     },
     {
+      "name": "documentation-1",
+      "sourceUrl": "https://drei.docs.pmnd.rs/llms-full.txt"
+    },
+    {
       "name": "github-docs",
       "sourceUrl": "https://docs.github.com/llms.txt"
     },
