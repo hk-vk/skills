@@ -17,6 +17,10 @@
       "sourceUrl": "https://coss.com/ui/llms.txt"
     },
     {
+      "name": "documentation",
+      "sourceUrl": "https://r3f.docs.pmnd.rs/llms-full.txt"
+    },
+    {
       "name": "github-docs",
       "sourceUrl": "https://docs.github.com/llms.txt"
     },
