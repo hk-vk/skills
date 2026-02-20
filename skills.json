@@ -17,6 +17,10 @@
       "sourceUrl": "https://coss.com/ui/llms.txt"
     },
     {
+      "name": "daisyui-5",
+      "sourceUrl": "https://daisyui.com/llms.txt"
+    },
+    {
       "name": "documentation",
       "sourceUrl": "https://r3f.docs.pmnd.rs/llms-full.txt"
     },
