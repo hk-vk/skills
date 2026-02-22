@@ -63,6 +63,10 @@
     {
       "name": "onchainkit",
       "sourceUrl": "https://docs.base.org/onchainkit/llms.txt"
+    },
+    {
+      "name": "windows",
+      "sourceUrl": "https://docs.ollama.com/llms-full.txt"
     }
   ]
 }
