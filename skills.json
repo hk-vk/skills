@@ -77,6 +77,10 @@
       "sourceUrl": "https://docs.base.org/onchainkit/llms.txt"
     },
     {
+      "name": "react",
+      "sourceUrl": "https://reactnative.dev/llms.txt"
+    },
+    {
       "name": "seo",
       "sourceUrl": "https://www.mintlify.com/docs/llms-full.txt"
     },
