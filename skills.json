@@ -73,6 +73,10 @@
       "sourceUrl": "https://docs.base.org/onchainkit/llms.txt"
     },
     {
+      "name": "seo",
+      "sourceUrl": "https://www.mintlify.com/docs/llms-full.txt"
+    },
+    {
       "name": "strip-llms",
       "sourceUrl": "https://docs.stripe.com/llms.txt"
     },
