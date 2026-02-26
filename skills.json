@@ -73,6 +73,10 @@
       "sourceUrl": "https://docs.stripe.com/llms.txt"
     },
     {
+      "name": "stripe-documentation",
+      "sourceUrl": "https://docs.stripe.com/llms.txt"
+    },
+    {
       "name": "windows",
       "sourceUrl": "https://docs.ollama.com/llms-full.txt"
     }
