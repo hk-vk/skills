@@ -57,6 +57,10 @@
       "sourceUrl": "https://docs.base.org/mini-apps/llms.txt"
     },
     {
+      "name": "mintlify",
+      "sourceUrl": "https://www.mintlify.com/docs/llms-full.txt"
+    },
+    {
       "name": "mintlify-setup",
       "sourceUrl": "https://www.mintlify.com/docs/llms.txt"
     },
