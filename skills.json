@@ -89,6 +89,10 @@
       "sourceUrl": "https://reactnative.dev/llms.txt"
     },
     {
+      "name": "rxdb-documentation",
+      "sourceUrl": "https://raw.githubusercontent.com/pubkey/rxdb/refs/heads/master/docs/llms.txt"
+    },
+    {
       "name": "seo",
       "sourceUrl": "https://www.mintlify.com/docs/llms-full.txt"
     },
