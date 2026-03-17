@@ -89,6 +89,10 @@
       "sourceUrl": "https://docs.base.org/onchainkit/llms.txt"
     },
     {
+      "name": "orpc",
+      "sourceUrl": "https://orpc.dev/llms.txt"
+    },
+    {
       "name": "react",
       "sourceUrl": "https://reactnative.dev/llms.txt"
     },
