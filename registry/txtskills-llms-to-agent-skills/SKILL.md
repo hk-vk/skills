@@ -35,6 +35,25 @@ npx txtskills convert docs.anthropic.com
 3. Install immediately when prompted.
 4. If content changed and skill exists, re-run with `--force`.
 
+## Agent execution workflow (important)
+
+When the user gives only a product name (for example: "Google AI Studio"), do this:
+
+1. Discover candidate URLs by checking in this order:
+   - `<domain>/llms.txt`
+   - `<domain>/.well-known/llms.txt`
+   - `<domain>/llms-full.txt`
+   - `<domain>/.well-known/llms-full.txt`
+2. If domain is unknown, search web for `"<product> llms.txt"` and `"<product> llms-full.txt"`.
+3. Run conversion:
+   - `npx txtskills convert <best-url>`
+4. If convert succeeds, offer immediate install.
+5. If multiple valid sources exist, ask user to choose before publishing.
+
+Example user intent this skill should handle:
+
+- "Find Google AI Studio llms.txt and convert it to a txtskills skill"
+
 ## Command reference
 
 ```bash
