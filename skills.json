@@ -113,6 +113,10 @@
       "sourceUrl": "https://docs.stripe.com/llms.txt"
     },
     {
+      "name": "txtskills-llms-to-agent-skills",
+      "sourceUrl": "https://txtskills.hari.works"
+    },
+    {
       "name": "windows",
       "sourceUrl": "https://docs.ollama.com/llms-full.txt"
     }
