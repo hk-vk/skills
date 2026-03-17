@@ -33,6 +33,10 @@
       "sourceUrl": "https://drei.docs.pmnd.rs/llms-full.txt"
     },
     {
+      "name": "drizzle",
+      "sourceUrl": "https://orm.drizzle.team/llms.txt"
+    },
+    {
       "name": "github-docs",
       "sourceUrl": "https://docs.github.com/llms.txt"
     },
