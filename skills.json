@@ -41,6 +41,10 @@
       "sourceUrl": "https://orm.drizzle.team/llms.txt"
     },
     {
+      "name": "gemini-api-reference",
+      "sourceUrl": "https://ai.google.dev/api/llms.txt"
+    },
+    {
       "name": "github",
       "sourceUrl": "https://github.com/llms.txt"
     },
