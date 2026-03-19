@@ -33,8 +33,16 @@
       "sourceUrl": "https://drei.docs.pmnd.rs/llms-full.txt"
     },
     {
+      "name": "documentation-2",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/llms.txt"
+    },
+    {
       "name": "drizzle",
       "sourceUrl": "https://orm.drizzle.team/llms.txt"
+    },
+    {
+      "name": "github",
+      "sourceUrl": "https://github.com/llms.txt"
     },
     {
       "name": "github-docs",
@@ -63,6 +71,10 @@
     {
       "name": "httpsdocsbaseorgllmstxt",
       "sourceUrl": "https://docs.base.org/llms.txt"
+    },
+    {
+      "name": "mantine-ui-llm-documentation",
+      "sourceUrl": "https://mantine.dev/llms.txt"
     },
     {
       "name": "mini-apps",
@@ -114,7 +126,7 @@
     },
     {
       "name": "txtskills-llms-to-agent-skills",
-      "sourceUrl": "https://txtskills.hari.works"
+      "sourceUrl": null
     },
     {
       "name": "windows",
