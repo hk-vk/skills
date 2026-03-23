@@ -137,6 +137,10 @@
       "sourceUrl": null
     },
     {
+      "name": "usetoast",
+      "sourceUrl": "https://ui.nuxt.com/llms-full.txt"
+    },
+    {
       "name": "windows",
       "sourceUrl": "https://docs.ollama.com/llms-full.txt"
     }
