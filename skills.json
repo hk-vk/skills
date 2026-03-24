@@ -109,6 +109,10 @@
       "sourceUrl": "https://orpc.dev/llms.txt"
     },
     {
+      "name": "part-3-approval-ui",
+      "sourceUrl": "https://www.assistant-ui.com/llms-full.txt"
+    },
+    {
       "name": "permix",
       "sourceUrl": "https://permix.letstri.dev/llms.txt"
     },
