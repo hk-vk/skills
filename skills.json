@@ -77,6 +77,10 @@
       "sourceUrl": "https://docs.base.org/llms.txt"
     },
     {
+      "name": "mantine",
+      "sourceUrl": "https://mantine.dev"
+    },
+    {
       "name": "mantine-ui-llm-documentation",
       "sourceUrl": "https://mantine.dev/llms.txt"
     },
