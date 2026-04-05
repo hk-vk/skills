@@ -141,6 +141,10 @@
       "sourceUrl": "https://docs.stripe.com/llms.txt"
     },
     {
+      "name": "tooltip",
+      "sourceUrl": "https://tamagui.dev/llms.txt"
+    },
+    {
       "name": "txtskills-llms-to-agent-skills",
       "sourceUrl": null
     },
