@@ -77,6 +77,10 @@
       "sourceUrl": "https://docs.base.org/llms.txt"
     },
     {
+      "name": "infisical",
+      "sourceUrl": "https://infisical.com/docs/llms.txt"
+    },
+    {
       "name": "mantine",
       "sourceUrl": "https://mantine.dev"
     },
