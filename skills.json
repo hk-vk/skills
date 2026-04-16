@@ -81,6 +81,10 @@
       "sourceUrl": "https://infisical.com/docs/llms.txt"
     },
     {
+      "name": "m3-svelte",
+      "sourceUrl": "https://kendell.dev/m3-svelte/llms.txt"
+    },
+    {
       "name": "mantine",
       "sourceUrl": "https://mantine.dev"
     },
