@@ -81,6 +81,10 @@
       "sourceUrl": "https://infisical.com/docs/llms.txt"
     },
     {
+      "name": "kirby-cms-docs",
+      "sourceUrl": "https://getkirby.com/llms.txt"
+    },
+    {
       "name": "m3-svelte",
       "sourceUrl": "https://kendell.dev/m3-svelte/llms.txt"
     },
@@ -131,6 +135,10 @@
     {
       "name": "react",
       "sourceUrl": "https://reactnative.dev/llms.txt"
+    },
+    {
+      "name": "react-flow-documentation",
+      "sourceUrl": "https://reactflow.dev/llms-medium.txt"
     },
     {
       "name": "rxdb-documentation",
